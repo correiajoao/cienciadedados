@@ -4,4 +4,4 @@
 Equipe: Psittacidae
 - Anthony Jatobá
 - João Correia
-- Júlio Correia
+- Júlio César
